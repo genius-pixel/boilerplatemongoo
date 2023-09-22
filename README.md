@@ -1,0 +1,2 @@
+# boilerplatemongoo
+mongoo
